@@ -1,13 +1,13 @@
 const menuData = [
   {
     id: 1,
-    title: "Home",
+    title: "Accueil",
     path: "/",
     newTab: false,
   },
   {
     id: 2,
-    title: "About",
+    title: "Présentation",
     path: "/about",
     newTab: false,
   },
@@ -30,49 +30,49 @@ const menuData = [
     submenu: [
       {
         id: 41,
-        title: "About Page",
+        title: "Page Présentation",
         path: "/about",
         newTab: false,
       },
       {
         id: 42,
-        title: "Contact Page",
+        title: "Page Contact",
         path: "/contact",
         newTab: false,
       },
       {
         id: 43,
-        title: "Blog Grid Page",
+        title: "Page Blog Grille",
         path: "/blog",
         newTab: false,
       },
       {
         id: 44,
-        title: "Blog Sidebar Page",
+        title: "Page Blog Barre latérale",
         path: "/blog-sidebar",
         newTab: false,
       },
       {
         id: 45,
-        title: "Blog Details Page",
+        title: "Page Blog Details ",
         path: "/blog-details",
         newTab: false,
       },
       {
         id: 46,
-        title: "Sign In Page",
+        title: "Page S'identifier (Sign In)",
         path: "/signin",
         newTab: false,
       },
       {
         id: 47,
-        title: "Sign Up Page",
+        title: "Page S'inscrire (Sign Up)",
         path: "/signup",
         newTab: false,
       },
       {
         id: 48,
-        title: "Error Page",
+        title: "Page Erreur",
         path: "/error",
         newTab: false,
       },
