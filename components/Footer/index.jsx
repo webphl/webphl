@@ -29,8 +29,8 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="mb-9 text-base font-medium leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                  Agence Web Cloud CRM.
+                  Norme ISO 27001.
                 </p>
                 <div className="flex items-center">
                   <a
@@ -96,7 +96,7 @@ const Footer = () => {
             <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
-                  Useful Links
+                  Liens Utiles
                 </h2>
                 <ul>
                   <li>
@@ -114,7 +114,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Pricing{" "}
+                      Tarification{" "}
                     </a>
                   </li>
                   <li>
@@ -123,7 +123,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      About{" "}
+                      À propos{" "}
                     </a>
                   </li>
                 </ul>
@@ -133,7 +133,7 @@ const Footer = () => {
             <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
-                  Terms
+                  Conditions Générales
                 </h2>
                 <ul>
                   <li>
@@ -142,7 +142,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      TOS{" "}
+                      CGU{" "}
                     </a>
                   </li>
                   <li>
@@ -151,7 +151,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Privacy Policy{" "}
+                      Politique de Confidentialité{" "}
                     </a>
                   </li>
                   <li>
@@ -160,7 +160,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Refund Policy{" "}
+                      Politique de Remboursement{" "}
                     </a>
                   </li>
                 </ul>
@@ -170,7 +170,7 @@ const Footer = () => {
             <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-3/12">
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
-                  Support & Help
+                  Assistance & Aide
                 </h2>
                 <ul>
                   <li>
@@ -179,7 +179,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Open Support Ticket{" "}
+                      Ouvrir le ticket d&#39;Assistance{" "}
                     </a>
                   </li>
                   <li>
@@ -188,7 +188,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Terms of Use{" "}
+                      Conditions d&#39;Utilisation{" "}
                     </a>
                   </li>
                   <li>
@@ -197,7 +197,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      About{" "}
+                      À Propos{" "}
                     </a>
                   </li>
                 </ul>
@@ -208,7 +208,7 @@ const Footer = () => {
         <div className="bg-primary/10 py-8">
           <div className="container">
             <p className="text-center text-base text-body-color dark:text-white">
-              Template by UIdeck and <a href="https://nextjstemplates.com" rel="nofollow noopener">Next.js Templates</a>
+              Créé par <a href="https://webphl.com" rel="nofollow noopener">Agence WebPhL</a>
             </p>
           </div>
         </div>
