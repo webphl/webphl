@@ -25,7 +25,7 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="Conçu pour les Startups, les SaaS et les sites d'entreprise."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                paragraph="L'objectif principal est de se concentrer sur l'éducation des participants sur la meilleure façon de protéger les applications professionnelles hautement vulnérables avec des tables rondes et des tables rondes interactives."
                 mb="44px"
               />
 
