@@ -1,24 +1,24 @@
 # Startup - Free Next.js Startup Website Template
 
-Startup free, open-source, and premium-quality startup website template for Next.js comes with everything you need to launch a startup, business, or SaaS website, including all essential sections, components, and pages.
+Le modèle de site Web de démarrage gratuit, open source et de qualité supérieure pour Next.js est livré avec tout ce dont vous avez besoin pour lancer un site Web de démarrage, d'entreprise ou SaaS, y compris toutes les sections, composants et pages essentiels.
 
-If you're looking for a high-quality and visually appealing, feature-rich Next.js Template for your next startup, SaaS, or business website, this is the perfect choice and starting point for you!
+Si vous recherchez un modèle Next.js de haute qualité, visuellement attrayant et riche en fonctionnalités pour votre prochain site Web de démarrage, SaaS ou d'entreprise, c'est le choix et le point de départ parfaits pour vous !
 
-### ✨ Key Features
-- Crafted for Startup and SaaS Business
-- Next.js 13 and Tailwind CSS
-- All Essential Business Sections and Pages
-- High-quality and Clean Design
-- Dark and Light Version
-and Much More ...
+### ✨ Principales Caractéristiques
+- Conçu pour les startups et les entreprises SaaS
+- Next.js 13 et Tailwind CSS
+- Toutes les sections et pages commerciales essentielles
+- Design épuré et de haute qualité
+- Version sombre et claire
+et beaucoup plus ...
 
-### [🚀 View Demo](https://startup.nextjstemplates.com/)
+### [🚀 View Demo](https://webphl.vercel.app/)
 
-### [📦 Download](https://nextjstemplates.com/templates/startup)
+### [📦 Download](https://github.com/webphl/webphl)
 
 ### [🔌 Documentation](https://nextjstemplates.com/docs)
 
-### ⚡ Deploy Now
+### ⚡ Déployer :
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fstartup-nextjs)
 
@@ -26,7 +26,7 @@ and Much More ...
 
 
 ### 📄 License
-Startup is 100% free and open-source, feel free to use with your personal and commercial projects.
+Le modèle Startup est 100% gratuit et open-source, n'hésitez pas à l'utiliser avec vos projets personnels et commerciaux.
 
 ### 💜 Support
-If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
+Si vous aimez le modèle, veuillez mettre ce référentiel en vedette pour inspirer l'équipe à créer plus de choses comme celle-ci et à atteindre plus d'utilisateurs comme vous !
