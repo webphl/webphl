@@ -5,16 +5,16 @@ const testimonialData = [
   {
     id: 1,
     name: "Musharof Chy",
-    designation: "Founder @TailGrids",
+    designation: "Fondateur @TailGrids",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Nos membres sont tellement impressionnés. C'est intuitif. C'est propre. C'est sans distraction. Si vous construisez une communauté.",
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
   {
     id: 2,
     name: "Devid Weilium",
-    designation: "Founder @UIdeck",
+    designation: "Fondateur @UIdeck",
     content:
       "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
     image: "/images/testimonials/auth-02.png",
@@ -23,7 +23,7 @@ const testimonialData = [
   {
     id: 3,
     name: "Lethium Frenci",
-    designation: "Founder @Lineicons",
+    designation: "Fondateur @Lineicons",
     content:
       "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
     image: "/images/testimonials/auth-03.png",
@@ -36,7 +36,7 @@ const Testimonials = () => {
     <section className="relative z-10 bg-primary/[.03] py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="What Our Users Says"
+          title="Ce que disent nos utilisateurs"
           paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
           center
         />
