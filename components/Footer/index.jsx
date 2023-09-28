@@ -29,7 +29,7 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="mb-9 text-base font-medium leading-relaxed text-body-color">
-                  Copyright © 2015-2023 - Agence WebPhL, depuis 2015.
+                  Copyright © 2015-2023 - WebPhL.com depuis 2015.
                 </p>
                 <div className="flex items-center">
                   <a
@@ -207,7 +207,7 @@ const Footer = () => {
         <div className="bg-primary/10 py-8">
           <div className="container">
             <p className="text-center text-base text-body-color dark:text-white">
-              Créé par <a href="https://webphl.com" rel="nofollow noopener">L&#39;Agence WebPhL</a>
+              Copyright © 2015-2023 - Agence<a href="https://webphl.com" rel="nofollow noopener">WebPhL</a>
             </p>
           </div>
         </div>
