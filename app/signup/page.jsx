@@ -156,7 +156,7 @@ const SignupPage = () => {
                 <p className="text-center text-base font-medium text-body-color">
                   Vous utilisez déjà nos services WebPhL ? 
                   <Link href="/signin" className="text-primary hover:underline">
-                    S'inscrire
+                    <br> S'inscrire</br>
                   </Link>
                 </p>
               </div>
