@@ -5,7 +5,7 @@ const NewsLatterBox = () => {
       data-wow-delay=".2s"
     >
       <h3 className="mb-4 text-2xl font-bold leading-tight text-black dark:text-white">
-        Abonnez-vous pour Recevoir nos Futures Mises à Jour
+        Abonnez-vous pour recevoir nos prochaines infos, promos et mises à jour !
       </h3>
       <p className="mb-11 border-b border-body-color border-opacity-25 pb-11 text-base font-medium leading-relaxed text-body-color dark:border-white dark:border-opacity-25">
         Lorem ipsum dolor sited Sed ullam corper consectur adipiscing Mae ornare
