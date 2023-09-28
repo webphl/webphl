@@ -21,7 +21,7 @@ const Footer = () => {
                     height={30}
                   />
                   <Image
-                    src="images/logo/logo-wpl.png"
+                    src="images/logo/logowpl.png"
                     alt="logo"
                     className="hidden w-full dark:block"
                     width={140}
