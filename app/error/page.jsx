@@ -134,17 +134,16 @@ const ErrorPage = () => {
                   </svg>
                 </div>
                 <h3 className="mb-4 text-3xl font-bold text-black dark:text-white sm:text-4xl">
-                  Sorry, the page can’t be found
+                  Désolé, la page Web est introuvable.
                 </h3>
                 <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  The page you were looking for appears to have been moved,
-                  deleted or does not exist.
+                  La page Web que vous recherchez semble avoir été déplacée, supprimée ou n'existe pas.
                 </p>
                 <Link
                   href="/"
                   className="rounded-md bg-primary py-3 px-8 text-base font-bold text-white shadow-signUp duration-300 hover:bg-white hover:text-primary md:px-9 lg:px-8 xl:px-9"
                 >
-                  Back to Homepage
+                  Retour à l'Accueil du site.
                 </Link>
               </div>
             </div>
