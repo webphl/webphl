@@ -16,7 +16,7 @@ const Footer = () => {
                   <Image
                     src="images/logo/logo-2.svg"
                     alt="logo"
-                    className="w-full dark:hidden"
+                    className=""
                     width={140}
                     height={30}
                   />
@@ -29,7 +29,7 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="mb-9 text-base font-medium leading-relaxed text-body-color">
-                  webphl.com since 2015.
+                     webphl.com since 2015.
                 </p>
                 <div className="flex items-center">
                   <a
