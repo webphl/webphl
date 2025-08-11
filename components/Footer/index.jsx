@@ -23,7 +23,7 @@ const Footer = () => {
                   <Image
                     src="images/logo/logo-webphl.png"
                     alt="logo"
-                    className="hidden w-full dark:block"
+                    className=""
                     width={140}
                     height={30}
                   />
