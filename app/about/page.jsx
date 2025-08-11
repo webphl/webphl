@@ -7,7 +7,7 @@ const AboutPage = () => {
     <>
       <Breadcrumb
         pageName="Page de Présentation WebPhL"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        description="WEBPHL SAS est une Entreprise de Services numériques (ESN) destiné à des PME-TPE-ETI et Organismes publics pour une transformation Numérique responsable et écologique en incluant des solutions de Cybersécurité et de Souveraineté Numérique en France et en Europe apportant à ses clients, des solutions évolutives et modulaires."
       />
       <AboutSectionOne />
       <AboutSectionTwo />
