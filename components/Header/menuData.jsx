@@ -19,7 +19,7 @@ const menuData = [
   },
   {
     id: 3,
-    title: "Support",
+    title: "Contact",
     path: "/contact",
     newTab: false,
   },
@@ -42,13 +42,13 @@ const menuData = [
       },
       {
         id: 43,
-        title: "Page Blog Grille",
+        title: "Page Blog vue Grille",
         path: "/blog",
         newTab: false,
       },
       {
         id: 44,
-        title: "Page Blog Barre latérale",
+        title: "Page Blog vue Barre latérale",
         path: "/blog-sidebar",
         newTab: false,
       },
