@@ -20,13 +20,6 @@ const Footer = () => {
                     width={140}
                     height={30}
                   />
-                  <Image
-                    src="images/logo/logo-webphl.png"
-                    alt="logo"
-                    className=""
-                    width={140}
-                    height={30}
-                  />
                 </Link>
                 <p className="mb-9 text-base font-medium leading-relaxed text-body-color">
                      webphl.com since 2015.
